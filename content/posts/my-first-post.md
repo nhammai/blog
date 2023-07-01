@@ -10,5 +10,5 @@ Hello the world and the universe!!!
 
 This is **bold** text, and this is *emphasized* text.
 
-You can also create your own blog by using [Hugo](https://gohugo.io). It's so amzing!
+You can also create your own blog by using [Hugo](https://gohugo.io). It's so amazing!
 
