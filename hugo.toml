@@ -2,3 +2,29 @@ baseURL = "https://nhammai.github.io/blog/"
 languageCode = 'en-us'
 title = "Nham's Blog"
 theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "👋 Welcome to Nham's Blog"
+Content = "Hi, this is Nham Mai. I’m documenting my learning notes on this blog. Other than writing, I'm leading the Delphinus community and building projects I find interesting on the side."
+
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/nhammai"
+icon = "fa-github"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/NhamMai99"
+icon = "fa-twitter"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/nhammai99/"
+icon = "fa-instagram"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/nhammai99/"
+icon = "fa-facebook"
+

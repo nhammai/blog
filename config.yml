@@ -1,0 +1,10 @@
+params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "twitter"
+            url: "https://twitter.com/NhamMai99"
+        - name: "instagram"
+            url: "https://www.instagram.com/delphinus_mai/"
