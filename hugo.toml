@@ -52,8 +52,3 @@ name = "instagram"
 url = "https://www.instagram.com/nhammai99/"
 icon = "fa-instagram"
 
-[[params.socialIcons]]
-name = "facebook"
-url = "https://www.facebook.com/nhammai99/"
-icon = "fa-facebook"
-
